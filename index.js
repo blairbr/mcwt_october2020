@@ -10,7 +10,7 @@
         },
         {
             name: "Blair Brown",
-            from: "",
+            from: "Troy",
             favoriteFood: "",
             hobbies: []
 
