@@ -73,9 +73,9 @@
         },
         {
             name: "Cherina	Brownlee",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Detroit",
+            favoriteFood: "Seafood",
+            hobbies: ["reading", "yoga", "crafting"]
 
         },
         {
