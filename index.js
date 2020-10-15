@@ -80,9 +80,9 @@
         },
         {
             name: "Christina	Evans",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Plymouth, MI",
+            favoriteFood: "Mediterranean",
+            hobbies: [Graphic Design, Painting, Yoga]
 
         },
         {
