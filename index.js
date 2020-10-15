@@ -45,9 +45,9 @@
         },
         {
             name: "Ashley	Cane",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Cloverly, MD",
+            favoriteFood: "Sushi",
+            hobbies: ["Playing golf", "Cooking", "Travel"]
 
         },
         {
