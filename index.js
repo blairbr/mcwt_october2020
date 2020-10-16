@@ -45,9 +45,9 @@
         },
         {
             name: "Ashley	Cane",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Cloverly, MD",
+            favoriteFood: "Sushi",
+            hobbies: ["Playing golf", "Cooking", "Travel"]
 
         },
         {
@@ -73,26 +73,27 @@
         },
         {
             name: "Cherina	Brownlee",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Detroit",
+            favoriteFood: "Seafood",
+            hobbies: ["reading", "yoga", "crafting"]
 
         },
         {
             name: "Christina	Evans",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Plymouth, MI",
+            favoriteFood: "Mediterranean",
+            hobbies: [Graphic Design, Painting, Yoga]
 
         },
         {
             name: "Deborah	Giammarco",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Novi",
+            favoriteFood: "Buddys Pizza",
+            hobbies: ["house reno's"]
 
         },
         {
+
             name: "EliLizabeth	Collacott",
             from: "FCA Stellantis",
             favoriteFood: "Key Lime Pie",
